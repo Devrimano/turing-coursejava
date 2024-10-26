@@ -6,6 +6,5 @@ public class Main {
         int a = sc.nextInt();
         boolean isPositive = a>0;
         System.out.println(isPositive);
-
     }
 }
